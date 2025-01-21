@@ -5,3 +5,4 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
+pillow==9.5.0
