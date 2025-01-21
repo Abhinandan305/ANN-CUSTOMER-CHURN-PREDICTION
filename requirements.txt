@@ -1,4 +1,5 @@
 streamlit
+python==3.11
 tensorflow==2.15.0
 pandas
 numpy
@@ -6,3 +7,4 @@ scikit-learn
 tensorboard
 matplotlib
 pillow==10.0.1
+pip>=24.3.1
